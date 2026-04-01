@@ -1,0 +1,28 @@
+h1 {
+	color:#B3001B;
+font-size:60px;
+Font-family:Impact;
+}
+
+p {
+	color:#FFFDF7;
+	font-family: Impact;
+	font-size :30px;
+}
+
+a {
+	color:#255C99;
+	font-family:Impact;
+	font-size:20px;
+
+}
+
+li {
+	color:#7EA3CC;
+	font-family:Imapct;
+	font-size:15px;
+}
+
+body {
+	background-color:#02040F;
+}
