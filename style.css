@@ -1,7 +1,7 @@
 h1 {
 	color:#B3001B;
 font-size:60px;
-Font-family:Impact;
+Font-family:Tussilago Heavy Italic;
 }
 
 p {
@@ -16,6 +16,20 @@ a {
 	font-size:20px;
 
 }
+.about {
+	color: #;
+	font-size: 25px;
+	font-family: impact;
+}
+
+.content{ 
+ 	Color:#7EA3CC;
+ 	font-size: 15px;
+ 	font-family: impact;
+
+
+ }
+
 
 li {
 	color:#7EA3CC;
