@@ -1,7 +1,7 @@
 h1 {
 	color:#B3001B;
 font-size:60px;
-Font-family:Tussilago Heavy Italic;
+Font-family:Impact;
 }
 
 p {
@@ -40,3 +40,13 @@ li {
 body {
 	background-color:#02040F;
 }
+
+tr { 
+	color:#B3001B;
+	font-family: impact;
+}
+
+
+
+
+
